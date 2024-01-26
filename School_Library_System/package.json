@@ -1,0 +1,11 @@
+{
+  "name": "school_library_system",
+  "version": "1.0.0",
+  "description": "Free Download Source Code \"School_Library_System\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
